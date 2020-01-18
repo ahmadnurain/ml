@@ -1,0 +1,49 @@
+<!--Simple Page Defacement By 4LM05TH3V!L Copyright Ãƒâ€šÃ‚Â© 2019-->
+<!--Hargailah Karya Oranglain :)-->
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Hacked by BKX-U0NH</title>
+<link href="https://fonts.gstatic.com/s/iceland/v8/rax9HiuFsdMNOnWPaKtMARJYk0o.woff2" rel="stylesheet">
+<meta name="description" content="Ownedz!">
+<meta name="keywords" content="BKX-U0NH">
+<meta http-equiv="cache-control" content="index,cache">
+<meta http-equiv="pragma" content="index,cache">
+<meta name="theme-color" content="black">
+<center>
+<style type="text/css">
+momos {
+font-family: 'Economica', sans-serif;
+}
+sntl {
+text-shadow: 3px 2px 4px cyan, 8px 1px 3px red;
+}
+a {
+color: white;
+}
+</style>
+<body>
+<script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/daun-berguguran.js" type="text/javascript"></script>
+<div style="height: auto; min-height: 100%;">
+<div style="text-align: center; width:800px; margin-left: -400px; position: absolute; top: 30%; left: 50%;">
+<body bgcolor="black">
+<center>
+<img src="https://s5.gifyu.com/images/GLITCH_202001121124068948f7a2ef2f9cb6.gif" width="600" height="400"</center>
+<momos>
+<sntl>
+<br>
+<font color="white" size="80">
+Owned! by BKX-U0NH | S0L0P30PL3
+<br>
+<font color="white">
+<font size="5">
+Hidup Itu Sederhana, Kita Yang Membuatnya Sulit
+ <br><br>
+{ INDRAMAYU CYBER TEAM }</font>
+<body>
+<br>
+</br>
+<center>
+<audio autoplay="autoplay" controls="controls" id="lagu" src="https://f.top4top.io/m_1468ibxzz0.mp3" type="audio"></audio>
+</center>
+</body>
+</html>
